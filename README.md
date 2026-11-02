@@ -24,4 +24,4 @@ Será criado e editado um arquivo HTML no Visual Studio Code. As alterações se
 - `test`: criação ou alteração de testes.
 
 ## Autor
-William Dierka
+William 
